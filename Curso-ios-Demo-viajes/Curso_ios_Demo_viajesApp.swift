@@ -11,7 +11,7 @@ import SwiftUI
 struct Curso_ios_Demo_viajesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            VistaDemoViajes()
         }
     }
 }
